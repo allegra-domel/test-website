@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/allegra-domel/test-website/static/css/main.9d5b29c0.chunk.css",
-    "main.js": "/allegra-domel/test-website/static/js/main.91a7d340.chunk.js",
-    "main.js.map": "/allegra-domel/test-website/static/js/main.91a7d340.chunk.js.map",
-    "runtime-main.js": "/allegra-domel/test-website/static/js/runtime-main.16f47218.js",
-    "runtime-main.js.map": "/allegra-domel/test-website/static/js/runtime-main.16f47218.js.map",
-    "static/js/2.9b1f19b2.chunk.js": "/allegra-domel/test-website/static/js/2.9b1f19b2.chunk.js",
-    "static/js/2.9b1f19b2.chunk.js.map": "/allegra-domel/test-website/static/js/2.9b1f19b2.chunk.js.map",
-    "static/js/3.67f222b8.chunk.js": "/allegra-domel/test-website/static/js/3.67f222b8.chunk.js",
-    "static/js/3.67f222b8.chunk.js.map": "/allegra-domel/test-website/static/js/3.67f222b8.chunk.js.map",
-    "index.html": "/allegra-domel/test-website/index.html",
-    "static/css/main.9d5b29c0.chunk.css.map": "/allegra-domel/test-website/static/css/main.9d5b29c0.chunk.css.map",
-    "static/js/2.9b1f19b2.chunk.js.LICENSE.txt": "/allegra-domel/test-website/static/js/2.9b1f19b2.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/allegra-domel/test-website/static/media/logo.6ce24c58.svg"
+    "main.css": "/test-website/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/test-website/static/js/main.91a7d340.chunk.js",
+    "main.js.map": "/test-website/static/js/main.91a7d340.chunk.js.map",
+    "runtime-main.js": "/test-website/static/js/runtime-main.9a2a22a7.js",
+    "runtime-main.js.map": "/test-website/static/js/runtime-main.9a2a22a7.js.map",
+    "static/js/2.9b1f19b2.chunk.js": "/test-website/static/js/2.9b1f19b2.chunk.js",
+    "static/js/2.9b1f19b2.chunk.js.map": "/test-website/static/js/2.9b1f19b2.chunk.js.map",
+    "static/js/3.67f222b8.chunk.js": "/test-website/static/js/3.67f222b8.chunk.js",
+    "static/js/3.67f222b8.chunk.js.map": "/test-website/static/js/3.67f222b8.chunk.js.map",
+    "index.html": "/test-website/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/test-website/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.9b1f19b2.chunk.js.LICENSE.txt": "/test-website/static/js/2.9b1f19b2.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/test-website/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.16f47218.js",
+    "static/js/runtime-main.9a2a22a7.js",
     "static/js/2.9b1f19b2.chunk.js",
     "static/css/main.9d5b29c0.chunk.css",
     "static/js/main.91a7d340.chunk.js"
