@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/allegra-domel/test-website/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/allegra-domel/test-website/static/js/main.a7ff9473.chunk.js",
+    "main.js.map": "/allegra-domel/test-website/static/js/main.a7ff9473.chunk.js.map",
+    "runtime-main.js": "/allegra-domel/test-website/static/js/runtime-main.16f47218.js",
+    "runtime-main.js.map": "/allegra-domel/test-website/static/js/runtime-main.16f47218.js.map",
+    "static/js/2.5cd9d38a.chunk.js": "/allegra-domel/test-website/static/js/2.5cd9d38a.chunk.js",
+    "static/js/2.5cd9d38a.chunk.js.map": "/allegra-domel/test-website/static/js/2.5cd9d38a.chunk.js.map",
+    "static/js/3.67f222b8.chunk.js": "/allegra-domel/test-website/static/js/3.67f222b8.chunk.js",
+    "static/js/3.67f222b8.chunk.js.map": "/allegra-domel/test-website/static/js/3.67f222b8.chunk.js.map",
+    "index.html": "/allegra-domel/test-website/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/allegra-domel/test-website/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.5cd9d38a.chunk.js.LICENSE.txt": "/allegra-domel/test-website/static/js/2.5cd9d38a.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/allegra-domel/test-website/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.16f47218.js",
+    "static/js/2.5cd9d38a.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.a7ff9473.chunk.js"
+  ]
+}
